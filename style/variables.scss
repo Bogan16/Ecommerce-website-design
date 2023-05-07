@@ -1,0 +1,53 @@
+@font-face {
+   font-family: "hk-grotesk-l"; 
+   src: url("./fonts/HankenGrotesk/static/HankenGrotesk-Light.ttf");
+}
+
+@font-face {
+   font-family: "hk-grotesk-b"; 
+   src: url("./fonts/HankenGrotesk/static/HankenGrotesk-Bold.ttf");
+}
+
+   $padding-xxxl: 120px;
+   $padding-xxl: 60px;
+   $padding-xl: 50px;
+   $padding-l: 40px;
+   $padding-m: 30px;
+   $padding-s: 20px;
+   $padding-xs: 10px;
+
+   $margin-xxxl: 120px;
+   $margin-xxl: 60px;
+   $margin-xl: 50px;
+   $margin-l: 40px;
+   $margin-m: 30px;
+   $margin-s: 20px;
+   $margin-xs: 10px;
+
+   $fs-xxl: 42px;
+   $fs-xl: 30px;
+   $fs-l: 24px;
+   $fs-m: 20px;
+   $fs-s: 18px;
+   $fs-xs: 16px;
+   $fs-xxs: 14px;
+
+   $fw-xl:700;
+   $fw-l:600;
+   $fw-m:500;
+   $fw-s:400;
+   
+   $primary-text-color: #666666;
+   $secondary-text-color: #008ECC;
+   $third-text-color: #FFFFFF;
+   $fourth-text-color: #222222;
+   $fifth-text-color: #249B3E;   
+
+   $primary-bg:  #EAEAEA;
+   $secondary-bg: #F5F5F5;
+   $third-bg: #F3F9FB;
+   $fourth-bg: #008ECC;
+   $fifth-bg: #EDEDED;  
+   $sixth-bg: #212844;
+   $seventh-bg: #FFFFFF;
+   $eighth-bg: #D9D9D9;
